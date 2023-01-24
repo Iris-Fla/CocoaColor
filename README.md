@@ -6,7 +6,6 @@ Nuxt3+Bootstrap5で製作したサイト
 >エラーページを追加した
 
 ## これからの目標
-Nuxt3の関数要素がないので、何か実装したい。
 
 ## Preview
 ![image](https://user-images.githubusercontent.com/103801589/212795707-6e96e145-ad73-496e-b5ea-0582c5709ce9.png)
